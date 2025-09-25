@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
-<h3 align="center">A .Net and Flutter Developer</h3>
+<h3 align="center">A .Net Full Stack Developer</h3>
 
 - 📫 How to reach me **mfaizan0999@gmail.com**
 
